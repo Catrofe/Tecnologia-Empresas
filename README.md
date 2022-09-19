@@ -29,6 +29,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [TIVIT Labs](https://www.linkedin.com/company/tivitlabs/)
 - [JustForYou](https://www.linkedin.com/company/justforbr/)
 - [KeyCash](https://www.linkedin.com/company/keycash-inc/)
+- [Luizalabs](https://www.linkedin.com/company/luizalabs/jobs/)
 
 
 ## NodeJS
@@ -48,3 +49,5 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Ambev Tech](https://www.linkedin.com/company/ambevtech/)
 - [Contabilizei](https://www.linkedin.com/company/contabilizei/)
 - [Creare Sistemas](https://www.linkedin.com/company/creare-sistemas/)
+- [Luizalabs](https://www.linkedin.com/company/luizalabs/jobs/)
+- 
