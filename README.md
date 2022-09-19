@@ -39,6 +39,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [KeyCash](https://www.linkedin.com/company/keycash-inc/)
 - [DQR Tech](https://www.linkedin.com/company/dqr-tech/)
 - [SmarttBot](https://www.linkedin.com/company/smarttbot/)
+- [STONE](https://www.linkedin.com/company/stone-co/)
 
 
 ## Java
@@ -56,6 +57,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 
 
 - [JBS](https://www.linkedin.com/company/jbs/jobs/)
+- [STONE](https://www.linkedin.com/company/stone-co/)
 
 
 ## Elixir
