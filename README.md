@@ -40,5 +40,6 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 ## Java
 
 
+- [WS Work](https://www.linkedin.com/company/ws-work-sistemas/)
 - [Ambev Tech](https://www.linkedin.com/company/ambevtech/)
 - [Contabilizei](https://www.linkedin.com/company/contabilizei/)
