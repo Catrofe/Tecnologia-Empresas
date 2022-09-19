@@ -13,6 +13,19 @@ De inicio daremos enfâse as empresas nacionais. Porem podem ser cadastradas emp
 
 Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possível atualizarei o README para ajudar os Dev's a localizar sua empresa.
 
+### Indices
+
+- [Python](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#python)
+- [NodeJS](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#nodejs)
+- [Java](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#java)
+- [Kotlin](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#kotlin)
+- [C#](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#c)
+- [Elixir](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#elixir)
+- [GO](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#go)
+- [PHP](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#php)
+- [Flutter](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#flutter)
+
+
 
 # Empresas e suas tecnologias:
 
