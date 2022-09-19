@@ -45,6 +45,13 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Myplanet](https://www.linkedin.com/company/myplanethq/)
 - [Inside Jobsity](https://www.linkedin.com/company/insidejobsity/)
 - [CTZ Soluções](https://www.linkedin.com/company/ctzsolucoes/)
+- [Boston Consulting Group (BCG)](https://www.linkedin.com/company/boston-consulting-group/)
+- [Clevertech](https://www.linkedin.com/company/clevertech/)
+- [Workling Jobs](https://www.linkedin.com/company/workling-jobs/)
+- [Agro Galaxy](https://www.linkedin.com/company/agro-galaxy/)
+- [Fullstack Labs](https://www.linkedin.com/company/fullstack-labs/)
+- [Deloitte](https://www.linkedin.com/company/deloitte/)
+- [Dock](https://www.linkedin.com/company/dock-community/)
 
 
 ## NodeJS
@@ -64,6 +71,11 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Runtalent](https://www.linkedin.com/company/runtalent/)
 - [Voa Hotéis](https://www.linkedin.com/company/voa-hot%C3%A9is/)
 - [Amaris Consulting](https://www.linkedin.com/company/amaris/)
+- [Boston Consulting Group (BCG)](https://www.linkedin.com/company/boston-consulting-group/)
+- [Agro Galaxy](https://www.linkedin.com/company/agro-galaxy/)
+- [SuperBid](https://www.linkedin.com/company/superbid/)
+- [ROIT](https://www.linkedin.com/company/roit-ai/)
+- [Novatics](https://www.linkedin.com/company/novatics/)
 
 
 ## Java
@@ -88,6 +100,18 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [InvestTools](https://www.linkedin.com/company/investtools/)
 - [Amaris Consulting](https://www.linkedin.com/company/amaris/)
 - [meutudo](https://www.linkedin.com/company/meutudoapp/)
+- [Kinp](https://www.linkedin.com/company/kinp/)
+- [Gympass](https://www.linkedin.com/company/gympass/)
+- [WEX Brasil Tech](https://www.linkedin.com/company/wex-brasil-tech/)
+- [Novatics](https://www.linkedin.com/company/novatics/)
+
+
+## Kotlin
+
+
+- [Trimble Inc.](https://www.linkedin.com/company/trimble/)
+- [Kinp](https://www.linkedin.com/company/kinp/)
+- [Gympass](https://www.linkedin.com/company/gympass/)
 
 
 ## C#
@@ -101,6 +125,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [InvestTools](https://www.linkedin.com/company/investtools/)
 - [Runtalent](https://www.linkedin.com/company/runtalent/)
 - [Amaris Consulting](https://www.linkedin.com/company/amaris/)
+- [Celcoin](https://www.linkedin.com/company/celcoin-financial-hub/)
 
 
 ## Elixir
@@ -116,6 +141,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [STONE](https://www.linkedin.com/company/stone-co/)
 - [dLocal](https://www.linkedin.com/company/dlocal/)
 - [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
+- [Gympass](https://www.linkedin.com/company/gympass/)
 
 
 ## PHP 
@@ -124,9 +150,11 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Americanas Delivery](https://www.linkedin.com/company/americanasdelivery/)
 - [DNK INFOTELECOM](https://www.linkedin.com/company/dnk-infotelecom/)
 - [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
+- [Match.mt](https://www.linkedin.com/company/match-mt/)
 
 
 ## Flutter
 
 
 - [Transdata](https://www.linkedin.com/company/somostransdata/)
+
