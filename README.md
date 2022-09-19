@@ -36,6 +36,8 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 
 - [Raro Labs](https://www.linkedin.com/company/raro-labs/jobs/)
 - [KeyCash](https://www.linkedin.com/company/keycash-inc/)
+- [DQR Tech](https://www.linkedin.com/company/dqr-tech/)
+- [SmarttBot](https://www.linkedin.com/company/smarttbot/)
 
 
 ## Java
