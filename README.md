@@ -28,3 +28,4 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [INTERA](https://www.linkedin.com/company/byintera/)
 - [TIVIT Labs](https://www.linkedin.com/company/tivitlabs/)
 - [JustForYou](https://www.linkedin.com/company/justforbr/)
+- [KeyCash](https://www.linkedin.com/company/keycash-inc/)
