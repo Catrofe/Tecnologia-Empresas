@@ -50,4 +50,9 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Contabilizei](https://www.linkedin.com/company/contabilizei/)
 - [Creare Sistemas](https://www.linkedin.com/company/creare-sistemas/)
 - [Luizalabs](https://www.linkedin.com/company/luizalabs/jobs/)
-- 
+
+
+## C#
+
+
+- (JBS)[https://www.linkedin.com/company/jbs/jobs/]
