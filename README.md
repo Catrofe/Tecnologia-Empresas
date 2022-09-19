@@ -13,7 +13,7 @@ De inicio daremos enfâse as empresas nacionais. Porem podem ser cadastradas emp
 
 Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possível atualizarei o README para ajudar os Dev's a localizar sua empresa.
 
-### Indices
+### Tecnologias
 
 - [Python](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#python)
 - [NodeJS](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#nodejs)
