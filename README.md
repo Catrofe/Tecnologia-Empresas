@@ -29,3 +29,16 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [TIVIT Labs](https://www.linkedin.com/company/tivitlabs/)
 - [JustForYou](https://www.linkedin.com/company/justforbr/)
 - [KeyCash](https://www.linkedin.com/company/keycash-inc/)
+
+
+## NodeJS
+
+
+- [KeyCash](https://www.linkedin.com/company/keycash-inc/)
+
+
+## Java
+
+
+- [Ambev Tech](https://www.linkedin.com/company/ambevtech/)
+- [Contabilizei](https://www.linkedin.com/company/contabilizei/)
