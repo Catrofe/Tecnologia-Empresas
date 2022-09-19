@@ -56,3 +56,16 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 
 
 - [JBS](https://www.linkedin.com/company/jbs/jobs/)
+
+
+## Elixir
+
+
+- [SWAP](https://www.linkedin.com/company/contaswap/)
+- [STONE](https://www.linkedin.com/company/stone-co/)
+
+
+## GO
+
+
+- [STONE](https://www.linkedin.com/company/stone-co/)
