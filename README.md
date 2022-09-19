@@ -55,4 +55,4 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 ## C#
 
 
-- (JBS)[https://www.linkedin.com/company/jbs/jobs/]
+- [JBS](https://www.linkedin.com/company/jbs/jobs/)
