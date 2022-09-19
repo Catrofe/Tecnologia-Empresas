@@ -30,6 +30,21 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [JustForYou](https://www.linkedin.com/company/justforbr/)
 - [KeyCash](https://www.linkedin.com/company/keycash-inc/)
 - [Luizalabs](https://www.linkedin.com/company/luizalabs/jobs/)
+- [JBT Corporation](https://www.linkedin.com/company/jbt-corporation/)
+- [AMcom](https://www.linkedin.com/company/amcom/)
+- [Spotify](https://www.linkedin.com/company/spotify/)
+- [GetNinjas](https://www.linkedin.com/company/getninjas/)
+- [ESSS](https://www.linkedin.com/company/esss/)
+- [Canonical](https://www.linkedin.com/company/canonical/)
+- [Hexagon Agriculture](https://www.linkedin.com/company/hexagon-agriculture/)
+- [Fetchly Labs](https://www.linkedin.com/company/fetchly-labs/)
+- [InvestTools](https://www.linkedin.com/company/investtools/)
+- [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
+- [Runtalent](https://www.linkedin.com/company/runtalent/)
+- [BTG Pactual](https://www.linkedin.com/company/btgpactual/)
+- [Myplanet](https://www.linkedin.com/company/myplanethq/)
+- [Inside Jobsity](https://www.linkedin.com/company/insidejobsity/)
+- [CTZ Soluções](https://www.linkedin.com/company/ctzsolucoes/)
 
 
 ## NodeJS
@@ -40,6 +55,15 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [DQR Tech](https://www.linkedin.com/company/dqr-tech/)
 - [SmarttBot](https://www.linkedin.com/company/smarttbot/)
 - [STONE](https://www.linkedin.com/company/stone-co/)
+- [Laskie](https://www.linkedin.com/company/laskie/)
+- [CleverTech](https://www.linkedin.com/company/clevertech/)
+- [BTG Pactual](https://www.linkedin.com/company/btgpactual/)
+- [WEVO](https://www.linkedin.com/company/wevo/)
+- [TRACTIAN](https://www.linkedin.com/company/tractian/)
+- [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
+- [Runtalent](https://www.linkedin.com/company/runtalent/)
+- [Voa Hotéis](https://www.linkedin.com/company/voa-hot%C3%A9is/)
+- [Amaris Consulting](https://www.linkedin.com/company/amaris/)
 
 
 ## Java
@@ -51,6 +75,19 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Contabilizei](https://www.linkedin.com/company/contabilizei/)
 - [Creare Sistemas](https://www.linkedin.com/company/creare-sistemas/)
 - [Luizalabs](https://www.linkedin.com/company/luizalabs/jobs/)
+- [ITAU](https://www.linkedin.com/company/itau/)
+- [Hexagon Agriculture](https://www.linkedin.com/company/hexagon-agriculture/)
+- [DevGrid](https://www.linkedin.com/company/devgrid/)
+- [Luxoft](https://www.linkedin.com/company/luxoft/)
+- [Sidi](https://www.linkedin.com/company/segueosidi/)
+- [PagBank PagSeguro](https://www.linkedin.com/company/pagbank-pagseguro/)
+- [DNK INFOTELECOM](https://www.linkedin.com/company/dnk-infotelecom/)
+- [dLocal](https://www.linkedin.com/company/dlocal/)
+- [Truppe!](https://www.linkedin.com/company/truppeteam/)
+- [Lenovo](https://www.linkedin.com/company/lenovo/)
+- [InvestTools](https://www.linkedin.com/company/investtools/)
+- [Amaris Consulting](https://www.linkedin.com/company/amaris/)
+- [meutudo](https://www.linkedin.com/company/meutudoapp/)
 
 
 ## C#
@@ -58,6 +95,12 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 
 - [JBS](https://www.linkedin.com/company/jbs/jobs/)
 - [STONE](https://www.linkedin.com/company/stone-co/)
+- [Applaudo](https://www.linkedin.com/company/applaudo/)
+- [ITAU](https://www.linkedin.com/company/itau/)
+- [Sidi](https://www.linkedin.com/company/segueosidi/)
+- [InvestTools](https://www.linkedin.com/company/investtools/)
+- [Runtalent](https://www.linkedin.com/company/runtalent/)
+- [Amaris Consulting](https://www.linkedin.com/company/amaris/)
 
 
 ## Elixir
@@ -71,3 +114,19 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 
 
 - [STONE](https://www.linkedin.com/company/stone-co/)
+- [dLocal](https://www.linkedin.com/company/dlocal/)
+- [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
+
+
+## PHP 
+
+
+- [Americanas Delivery](https://www.linkedin.com/company/americanasdelivery/)
+- [DNK INFOTELECOM](https://www.linkedin.com/company/dnk-infotelecom/)
+- [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
+
+
+## Flutter
+
+
+- [Transdata](https://www.linkedin.com/company/somostransdata/)
