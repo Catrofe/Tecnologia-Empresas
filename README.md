@@ -65,6 +65,10 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Fullstack Labs](https://www.linkedin.com/company/fullstack-labs/)
 - [Deloitte](https://www.linkedin.com/company/deloitte/)
 - [Dock](https://www.linkedin.com/company/dock-community/)
+- [Hurb](https://www.linkedin.com/company/hurb/)
+- [Zero Hash](https://www.linkedin.com/company/zerohash/)
+- [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
+- [AltoQi](https://www.linkedin.com/company/altoqi-tecnologia/)
 
 
 ## NodeJS
@@ -89,6 +93,9 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [SuperBid](https://www.linkedin.com/company/superbid/)
 - [ROIT](https://www.linkedin.com/company/roit-ai/)
 - [Novatics](https://www.linkedin.com/company/novatics/)
+- [Hurb](https://www.linkedin.com/company/hurb/)
+- [Meta](https://www.linkedin.com/company/metaoficial/)
+- [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 
 
 ## Java
@@ -117,6 +124,8 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Gympass](https://www.linkedin.com/company/gympass/)
 - [WEX Brasil Tech](https://www.linkedin.com/company/wex-brasil-tech/)
 - [Novatics](https://www.linkedin.com/company/novatics/)
+- [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
+- [Taking](https://www.linkedin.com/company/taking/)
 
 
 ## Kotlin
@@ -139,6 +148,8 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Runtalent](https://www.linkedin.com/company/runtalent/)
 - [Amaris Consulting](https://www.linkedin.com/company/amaris/)
 - [Celcoin](https://www.linkedin.com/company/celcoin-financial-hub/)
+- [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
+- [F360°](https://www.linkedin.com/company/f-360/)
 
 
 ## Elixir
@@ -155,6 +166,8 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [dLocal](https://www.linkedin.com/company/dlocal/)
 - [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
 - [Gympass](https://www.linkedin.com/company/gympass/)
+- [Hurb](https://www.linkedin.com/company/hurb/)
+- [Zero Hash](https://www.linkedin.com/company/zerohash/)
 
 
 ## PHP 
@@ -164,6 +177,9 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [DNK INFOTELECOM](https://www.linkedin.com/company/dnk-infotelecom/)
 - [Melhor Envio](https://www.linkedin.com/company/melhorenvio/)
 - [Match.mt](https://www.linkedin.com/company/match-mt/)
+- [Hurb](https://www.linkedin.com/company/hurb/)
+- [Nestlé S.A](https://www.linkedin.com/company/nestle-s-a-/)
+- [CaZco Digital](https://www.linkedin.com/company/cazco/)
 
 
 ## Flutter
