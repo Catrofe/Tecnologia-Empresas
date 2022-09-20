@@ -182,6 +182,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Hurb](https://www.linkedin.com/company/hurb/)
 - [Nestlé S.A](https://www.linkedin.com/company/nestle-s-a-/)
 - [CaZco Digital](https://www.linkedin.com/company/cazco/)
+- [Revvo](https://www.linkedin.com/company/somosrevvo/)
 
 
 ## Flutter
