@@ -24,6 +24,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [GO](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#go)
 - [PHP](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#php)
 - [Flutter](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#flutter)
+- - [Flutter](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#ruby)
 
 
 
@@ -126,6 +127,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Novatics](https://www.linkedin.com/company/novatics/)
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 - [Taking](https://www.linkedin.com/company/taking/)
+- [Axxiom](https://www.linkedin.com/company/axxiom/)
 
 
 ## Kotlin
@@ -187,3 +189,26 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 
 - [Transdata](https://www.linkedin.com/company/somostransdata/)
 
+
+## Ruby
+
+
+- [VMtecnologia](https://www.linkedin.com/company/vmtecnologia-io/)
+- [Maida.health](https://www.linkedin.com/company/maidahealth/)
+- [Farisco RH](https://www.linkedin.com/company/fariscorh/)
+- [Raro Labs](https://www.linkedin.com/company/raro-labs/jobs/)
+- [InvestTools](https://www.linkedin.com/company/investtools/)
+- [Iugu](https://www.linkedin.com/company/iugu/)
+- [Globant](https://www.linkedin.com/company/globant/)
+- [Repassa](https://www.linkedin.com/company/repassa/)
+- [docg.](https://www.linkedin.com/company/docg./)
+- [Beep Saúde](https://www.linkedin.com/company/beepsaude/)
+- [Pontomais](https://www.linkedin.com/company/pontomais/)
+- [Instituto Atlântico](https://www.linkedin.com/company/instituto-atlantico/)
+- [Gocase Brasil](https://www.linkedin.com/company/gocase-global/)
+- [Capitol Canary](https://www.linkedin.com/company/capitolcanary/)
+- [yellow.rec](https://www.linkedin.com/company/yellowrecrutamento/)
+- [Grafeno](https://www.linkedin.com/company/grafenodigital/)
+- [Meta](https://www.linkedin.com/company/metaoficial/)
+- [Embarca](https://www.linkedin.com/company/embarcabrasil/)
+- [UpStack](https://www.linkedin.com/company/upstackhq/)
