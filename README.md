@@ -24,7 +24,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [GO](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#go)
 - [PHP](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#php)
 - [Flutter](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#flutter)
-- - [Flutter](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#ruby)
+- [Ruby](https://github.com/Catrofe/Tecnologia-Empresas/blob/main/README.md#ruby)
 
 
 
