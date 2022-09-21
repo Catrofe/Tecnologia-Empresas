@@ -70,6 +70,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Zero Hash](https://www.linkedin.com/company/zerohash/)
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 - [AltoQi](https://www.linkedin.com/company/altoqi-tecnologia/)
+- [Ewave do Brasil](https://www.linkedin.com/company/ewave-do-brasil/)
 
 
 ## NodeJS
@@ -97,6 +98,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Hurb](https://www.linkedin.com/company/hurb/)
 - [Meta](https://www.linkedin.com/company/metaoficial/)
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
+- [Ewave do Brasil](https://www.linkedin.com/company/ewave-do-brasil/)
 
 
 ## Java
@@ -128,6 +130,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 - [Taking](https://www.linkedin.com/company/taking/)
 - [Axxiom](https://www.linkedin.com/company/axxiom/)
+- [Ewave do Brasil](https://www.linkedin.com/company/ewave-do-brasil/)
 
 
 ## Kotlin
