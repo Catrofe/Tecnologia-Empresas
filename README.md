@@ -216,3 +216,4 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Meta](https://www.linkedin.com/company/metaoficial/)
 - [Embarca](https://www.linkedin.com/company/embarcabrasil/)
 - [UpStack](https://www.linkedin.com/company/upstackhq/)
+
