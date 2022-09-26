@@ -71,6 +71,20 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 - [AltoQi](https://www.linkedin.com/company/altoqi-tecnologia/)
 - [Ewave do Brasil](https://www.linkedin.com/company/ewave-do-brasil/)
+- [Nilo Saúde](https://www.linkedin.com/company/nilo-saude/)
+- [Foursys](https://www.linkedin.com/company/foursys/life/vemserfoursys/)
+- [Page Personnel](https://www.linkedin.com/company/pagepersonnel/)
+- [Americana s.a](https://www.linkedin.com/company/americanas-sa/life/0ab4b39a-089c-47be-b782-19fb6e14c8aa/)
+- [Agrotools](https://www.linkedin.com/company/agrotools-gestao-e-monitoramento-geoespacial/)
+- [Elemento RH](https://www.linkedin.com/company/grupo-elemento-rh/)
+- [WTM do Brasil](https://www.linkedin.com/company/wtm-do-brasil/)
+- [Gran Cursos Online](https://www.linkedin.com/company/grancursosonline/)
+- [Mayo Consultoria](https://www.linkedin.com/company/mayo-consultoria/)
+- [Gedanken - GCertifica](https://www.linkedin.com/company/gedanken-consulting-technologies/)
+- [Encora inc](https://www.linkedin.com/company/encorainc/)
+- [Brlink](https://www.linkedin.com/company/brlink/)
+- [doc9](https://www.linkedin.com/company/doc9lawtech/)
+- [Viralize](https://www.linkedin.com/company/viralizeonline/)
 
 
 ## NodeJS
@@ -99,6 +113,11 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Meta](https://www.linkedin.com/company/metaoficial/)
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 - [Ewave do Brasil](https://www.linkedin.com/company/ewave-do-brasil/)
+- [Nilo Saúde](https://www.linkedin.com/company/nilo-saude/)
+- [Foursys](https://www.linkedin.com/company/foursys/life/vemserfoursys/)
+- [Mayo Consultoria](https://www.linkedin.com/company/mayo-consultoria/)
+- [Encora inc](https://www.linkedin.com/company/encorainc/)
+- [Brlink](https://www.linkedin.com/company/brlink/)
 
 
 ## Java
@@ -131,6 +150,12 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Taking](https://www.linkedin.com/company/taking/)
 - [Axxiom](https://www.linkedin.com/company/axxiom/)
 - [Ewave do Brasil](https://www.linkedin.com/company/ewave-do-brasil/)
+- [Foursys](https://www.linkedin.com/company/foursys/life/vemserfoursys/)
+- [Ubots](https://www.linkedin.com/company/ubots/)
+- [Decision](https://www.linkedin.com/company/decisionbr-consultants/)
+- [Mayo Consultoria](https://www.linkedin.com/company/mayo-consultoria/)
+- [Encora inc](https://www.linkedin.com/company/encorainc/)
+- [Brlink](https://www.linkedin.com/company/brlink/)
 
 
 ## Kotlin
@@ -155,6 +180,8 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Celcoin](https://www.linkedin.com/company/celcoin-financial-hub/)
 - [Mendes Talent](https://www.linkedin.com/company/mendes-talent/)
 - [F360°](https://www.linkedin.com/company/f-360/)
+- [Agrotools](https://www.linkedin.com/company/agrotools-gestao-e-monitoramento-geoespacial/)
+- [Encora inc](https://www.linkedin.com/company/encorainc/)
 
 
 ## Elixir
@@ -173,6 +200,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Gympass](https://www.linkedin.com/company/gympass/)
 - [Hurb](https://www.linkedin.com/company/hurb/)
 - [Zero Hash](https://www.linkedin.com/company/zerohash/)
+- [Encora inc](https://www.linkedin.com/company/encorainc/)
 
 
 ## PHP 
@@ -186,6 +214,7 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Nestlé S.A](https://www.linkedin.com/company/nestle-s-a-/)
 - [CaZco Digital](https://www.linkedin.com/company/cazco/)
 - [Revvo](https://www.linkedin.com/company/somosrevvo/)
+- [Nilo Saúde](https://www.linkedin.com/company/nilo-saude/)
 
 
 ## Flutter
@@ -216,4 +245,5 @@ Basta criar uma Issue informando a empresa e suas tecnologias. Assim que possív
 - [Meta](https://www.linkedin.com/company/metaoficial/)
 - [Embarca](https://www.linkedin.com/company/embarcabrasil/)
 - [UpStack](https://www.linkedin.com/company/upstackhq/)
+- [Encora inc](https://www.linkedin.com/company/encorainc/)
 
